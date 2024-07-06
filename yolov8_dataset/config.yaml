@@ -1,0 +1,5 @@
+path: yolov8_dataset
+train: /Users/ayangairola/Desktop/intern/yolov8_dataset/images/train
+val: /Users/ayangairola/Desktop/intern/yolov8_dataset/images/val
+nc: 1
+names: [license_plate]
